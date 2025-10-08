@@ -1,4 +1,4 @@
-
+## Download and setup
 ```
 git clone https://github.com/Lafok/server-init.git
 ```
@@ -16,6 +16,7 @@ nano .env.dev
 nano .env.prod
 ```
 
+## Select script
 ### DEV 1
 #### No DB no SSL
 * update the system
