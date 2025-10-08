@@ -8,7 +8,7 @@ cd server-init
 ```
 chmod +x setup-server.sh
 ```
-## Insert values and keys in dev or prod env
+## Insert values and keys in dev OR prod env
 ```
 nano .env.dev
 ```
