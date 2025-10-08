@@ -8,6 +8,14 @@ cd server-init
 ```
 chmod +x setup-server.sh
 ```
+## Insert values and keys in dev or prod env
+```
+nano .env.dev
+```
+```
+nano .env.prod
+```
+
 ### DEV 1
 #### No DB no SSL
 * update the system
